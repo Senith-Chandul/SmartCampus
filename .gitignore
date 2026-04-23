@@ -1,0 +1,7 @@
+/target/
+/.nb-gradle/
+/nbproject/private/
+/build/
+nb-configuration.xml
+*.class
+*.log

@@ -81,6 +81,11 @@ curl -X GET "http://localhost:8080/SmartCampus/api/v1/sensors?type=Temperature"
 curl -X GET http://localhost:8080/SmartCampus/api/v1/rooms/LIB-101/sensors
 ```
 
+## 📄 Other Resources
+
+- Report: [Click Here](https://drive.google.com/file/d/1ZdFDkhcDmeIdgWCN6uZI1-tHyEYwSqZh/view?usp=sharing)
+- Demo Video: [Click Here](https://drive.google.com/file/d/1gUNrb6V_TfRG4vWyzsNsVjFqm36ZSMPY/view?usp=sharing)
+
 
 
 > **Note:** Technical answers for the Conceptual Report are located in the separate PDF submission.

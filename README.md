@@ -1,7 +1,7 @@
 # SmartCampus: Sensor & Room Management API
 
 **Student Name:** Senith Chandul Sagarage  
-**Student ID:** w2120309  
+**Student ID:** w2120309 / 20231705  
 **Module:** Client-Server Architectures (5COSC022W)
 
 ## 📌 Project Overview
